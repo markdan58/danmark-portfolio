@@ -13,6 +13,26 @@
     float: left;
     padding: 15px;
   }
-img {
+.dan {
     border-radius: 50%;
+    
+}
+h1{
+    float:left;
+}
+.intro{
+    width:5%;
+    height:10%;
+    border-radius:8px;
+}
+.twit{
+    width: 5%;
+    height:10%;
+    border-radius:8px;
+}
+.insta{
+    width:5%;
+    height:10%;
+    border-radius:8px;
+
 }
